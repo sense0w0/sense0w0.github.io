@@ -43,7 +43,7 @@ header {
     padding-top: 20px;
     width: auto;
     height: auto;
-    border-radius: 10px;
+    radius: 10px;
     opacity: 0.9;
 
 
@@ -125,11 +125,11 @@ header {
 
     }
 
-    img{
+    #mainImg{
         padding-top: 20px;
         width: 500px;
         height: 350px;
-        border-radius: 10px;
+        radius: 10px;
         opacity: 0.9;
 
 
@@ -210,11 +210,11 @@ header {
 
     }
 
-    img{
+    #mainImg{
         padding-top: 20px;
         width: 350px;
         height: 250px;
-        border-radius: 10px;
+        radius: 10px;
         opacity: 0.9;
 
 
