@@ -1,0 +1,100 @@
+
+
+#body{
+  background-color: #EFEADE;
+}
+
+#head{
+    position: absolute;
+    font-size: 40px;
+    right: 850px;
+    top: 30px;
+    font-family: sans-serif, '맑은 고딕';
+
+
+}
+
+#mainImg{
+    position: absolute;
+    width: auto;
+    height: auto;
+    max-width: 200px;
+    max-height: 200px;
+    border-radius: 7px;
+    opacity: 0.9;
+    top:calc(70% - 10px);
+    left:calc(50% - 100px);
+
+
+}
+
+.backGranudName{
+    position: absolute;
+    color: #817E78;
+    opacity: 0.2;
+    font-size: 450px;
+    left: 150px;
+
+}
+
+#backGranudName{
+    top:calc(10% - 50px);
+    left:calc(10% - 150px);
+
+
+}
+
+#backGranudName2{
+    top:calc(50% - 50px);
+    left:calc(10% - 150px);
+
+
+}
+#backGranudName3{
+    top:calc(10% - 50px);
+    left:calc(55% - 150px);
+
+
+
+}
+
+
+#basicInfo {
+    position: absolute;
+    padding: 30px;
+    top: calc(90% - 100px);
+    left: calc(50% - 190px);
+    font-size: 15px;
+    letter-spacing: 3px;
+    line-height: 30px;
+    text-align: center;
+    box-sizing: content-box;
+
+}
+
+
+
+#story1{
+    position: absolute;
+    top:calc(15% - 20px);
+    left:calc(55% - 700px);
+    font-size: 20px;
+    letter-spacing: 5px;
+    line-height: 15px;
+    text-align: center;
+    box-sizing: content-box;
+
+
+}
+
+#story2{
+    position: absolute;
+    top:calc(30% - 20px);
+    left:calc(50% - 700px);
+    font-size: 20px;
+    letter-spacing: 5px;
+    line-height: 15px;
+    text-align: center;
+    box-sizing: content-box;
+
+}
